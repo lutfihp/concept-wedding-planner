@@ -1,6 +1,6 @@
 @AGENTS.md
 
-# Tresna Wedding — Project Context for Claude
+# Concept Wedding Planner — Project Context for Claude
 
 ## What this is
 
