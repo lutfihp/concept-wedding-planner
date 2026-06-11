@@ -64,8 +64,8 @@ export const GALLERY_IMAGES: GalleryImage[] = [
     period: 'Decoration · 2024',
   },
   {
-    /** Pexels photo 6854358 — bride and groom holding hands in dance */
-    src: 'https://images.pexels.com/photos/6854358/pexels-photo-6854358.jpeg?auto=compress&cs=tinysrgb&w=800',
+    /** Pexels photo 8063171 — newlywed couple shares a romantic first dance at a stylish wedding reception */
+    src: 'https://images.pexels.com/photos/8063171/pexels-photo-8063171.jpeg?auto=compress&cs=tinysrgb&w=800',
     alt: 'First dance at the reception',
     width: 800,
     height: 600,
@@ -74,8 +74,8 @@ export const GALLERY_IMAGES: GalleryImage[] = [
     period: 'Reception · 2025',
   },
   {
-    /** Pexels photo 9876597 — flowers and leaves as wedding decorations */
-    src: 'https://images.pexels.com/photos/9876597/pexels-photo-9876597.jpeg?auto=compress&cs=tinysrgb&w=800',
+    /** Pexels photo 1616113 — pink and white roses centerpiece on top of table */
+    src: 'https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=800',
     alt: 'Floral centerpiece wedding decoration',
     width: 800,
     height: 600,
