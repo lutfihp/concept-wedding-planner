@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# design handoff source assets (favicon originals, HTML prototype, design brief)
+/handoffs/
+
+# SWC compiler cache (Next.js Rust-based compiler, auto-regenerated on every build)
+/.swc/
